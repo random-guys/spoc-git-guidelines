@@ -2,9 +2,7 @@
 
 # Overview
 
-The product org engineering team tries to follow the *conventional commits guideline.* You can find out more about the conventional commits specification here: 
-
-[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/#summary)
+The product org engineering team tries to follow the *conventional commits guideline.* You can find out more about the conventional commits specification here: [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/#summary)
 
 **Note**: we do differ from the convention in some areas, namely in the use of a footer in commit messages and in some of the keywords 
 
@@ -32,10 +30,13 @@ This is typically a noun that describes the kind of change that the commit makes
 
 - **feat (feature):**
 a change that introduces a new feature to the codebase that an end user will impact from
+
 - **fix (bug fix):**
 patches a bug or any otherwise unintended behaviour in your codebase
+
 - **style (formatting):**
 any change that runs a linter or only adds formatting changes in the code's appearance. e.g. fixing indentation, white-space, adding/removing semicolons, removing commented out code etc.
+
 - **docs (documentation):**
 a change to the documentation of a codebase e.g. changes to READMEs, adding code comments/documentation etc.
 - **ref (refactor):**
