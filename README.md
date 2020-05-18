@@ -54,7 +54,7 @@ This is a very short description of the change. There aren't many hard rules to 
 
 ## Body - [optional]
 
-There are sometimes cases where a header description does not fully describe all the changes introduced by a commit. In times like these, consider adding ****a **message body**! 
+There are sometimes cases where a header description does not fully describe all the changes introduced by a commit. In times like these, consider adding **a message body**! 
 
 The header and body both need to be separated by one black line and is entirely optional.
 
