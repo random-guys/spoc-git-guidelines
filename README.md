@@ -8,8 +8,6 @@ The product org engineering team tries to follow the *conventional commits guide
 
 # Commit Messages
 
----
-
 A commit message should typically consist of a header and an optional body separated by a blank line. This should give a simple and succinct description of what's been changed. Avoid commit message lines longer than 100 characters. 
 
 ## Header
@@ -145,7 +143,7 @@ docs[README]: about section is out of date
 
 # Pull Requests (PR) Guidelines
 
-## Be contextual and descriptive: What does this pull request do?
+Be contextual and descriptive: What does this pull request do?
 
 Examples:
 
