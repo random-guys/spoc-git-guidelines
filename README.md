@@ -12,8 +12,6 @@ A commit message should typically consist of a header and an optional body separ
 
 ## Header
 
----
-
 The message header is a single line that contains a concise description of the change containing a type, an optional scope, and a subject. This would typically tend to look like the sample syntax below: 
 
 ```jsx
@@ -26,25 +24,21 @@ The message header is a single line that contains a concise description of the c
 
 This is typically a noun that describes the kind of change that the commit makes. Valid types are: 
 
-- **feat (feature):**
-a change that introduces a new feature to the codebase that an end user will impact from
+- **feat (feature):** a change that introduces a new feature to the codebase that an end user will impact from
 
-- **fix (bug fix):**
-patches a bug or any otherwise unintended behaviour in your codebase
+- **fix (bug fix):** patches a bug or any otherwise unintended behaviour in your codebase
 
-- **style (formatting):**
-any change that runs a linter or only adds formatting changes in the code's appearance. e.g. fixing indentation, white-space, adding/removing semicolons, removing commented out code etc.
+- **style (formatting):** any change that runs a linter or only adds formatting changes in the code's appearance. e.g. fixing indentation, white-space, adding/removing semicolons, removing commented out code etc.
 
-- **docs (documentation):**
-a change to the documentation of a codebase e.g. changes to READMEs, adding code comments/documentation etc.
-- **ref (refactor):**
-Updating an already existing method of doing things. Either to simplify the code logic or improve code readability without affecting a codebase's externally perceived behaviour. *[The formal definition of a refactor](https://refactoring.com/)*.
-- **test (when messing with tests):**
-changes to tests, either adding tests or updating them
-- **deploy (deployment):**
-changes to CI or deployment configuration files and scripts (example scopes: Circle, Docker/Docker compose, Netlify, Heroku, Surge) etc.
-- **chore (general maintenance):**
-the chore tag can be used for changes that involve general maintenance (e.g. updating content text) or simply as a general type for anything that doesn't quite fit into the other types on this list
+- **docs (documentation):** a change to the documentation of a codebase e.g. changes to READMEs, adding code comments/documentation etc.
+
+- **ref (refactor):** Updating an already existing method of doing things. Either to simplify the code logic or improve code readability without affecting a codebase's externally perceived behaviour. *[The formal definition of a refactor](https://refactoring.com/)*.
+
+- **test (when messing with tests):** changes to tests, either adding tests or updating them
+
+- **deploy (deployment):** changes to CI or deployment configuration files and scripts (example scopes: Circle, Docker/Docker compose, Netlify, Heroku, Surge) etc.
+
+- **chore (general maintenance):** the chore tag can be used for changes that involve general maintenance (e.g. updating content text) or simply as a general type for anything that doesn't quite fit into the other types on this list
 
 ### Scope - [optional]
 
@@ -59,8 +53,6 @@ This is a very short description of the change. There aren't many hard rules to 
 - no need  to capitalise the first letter
 
 ## Body - [optional]
-
----
 
 There are sometimes cases where a header description does not fully describe all the changes introduced by a commit. In times like these, consider adding ****a **message body**! 
 
@@ -79,8 +71,6 @@ Message bodies can take any form such as bullet points, links to relevant websit
 For a more detailed description on what can possibly be in a message body
 
 ## Example commit messages
-
----
 
 ```bash
 feat: info route is too slow
