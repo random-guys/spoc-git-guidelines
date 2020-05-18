@@ -114,8 +114,6 @@ docs[README]: about section is out of date
 
 # Workflow - Adding features
 
----
-
 1. Create a feature branch
 
     ```bash
@@ -146,8 +144,6 @@ docs[README]: about section is out of date
     ```
 
 # Pull Requests (PR) Guidelines
-
----
 
 ## Be contextual and descriptive: What does this pull request do?
 
