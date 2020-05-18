@@ -145,7 +145,7 @@ docs[README]: about section is out of date
     git pull # get the latest merged code
     ```
 
-# Pull requests Guidelines
+# Pull Requests (PR) Guidelines
 
 ---
 
@@ -153,18 +153,29 @@ docs[README]: about section is out of date
 
 Examples:
 
+```
 This sends an email when...
+```
 
+```
 This refactors how and when we generate request ids...
+```
 
+```
 This fixes a CSS issue where...
+```
 
 ## Provide some context on why work is happening
 
 Examples:
 
+```
 Right now we have to manually send an email to (me@example.com), this automates that process...
-
+```
+```
 On Firefox, buttons would not always look consistent with designs and other browser implementations...
+```
 
+```
 The current codebase file structure is difficult to understand and makes changes risky...
+```
