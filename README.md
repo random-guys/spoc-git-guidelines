@@ -64,9 +64,7 @@ The header and body both need to be separated by one black line and is entirely 
 <Body>
 ```
 
-Message bodies can take any form such as bullet points, links to relevant websites, your thoughts... 
-
-**[A Note About Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)**
+Message bodies can take any form such as bullet points, links to relevant websites, your thoughts. [A Note About Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 
 ## Example commit messages
 
