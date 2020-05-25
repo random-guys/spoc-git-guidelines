@@ -120,7 +120,7 @@ docs[README]: about section is out of date
     git push origin type/problem-topic
     ```
 
-4. From Github, create a new pull request to the staging branch one of @Kunle Arewa, @Raymond Tukpe, @Chudi Oranu or @Kolapo Oni as reviewer.
+4. From Github, create a new pull request to the staging branch one of @Kunle Arewa, @Raymond Tukpe, @Chudi Oranu or @Kolapo Oni as reviewer. __Don't push your build/dependency artifacts__
 
 5. To integrate first:
 
