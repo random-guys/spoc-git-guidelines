@@ -161,3 +161,4 @@ On Firefox, buttons would not always look consistent with designs and other brow
 ```
 The current codebase file structure is difficult to understand and makes changes risky...
 ```
+**NB: Do not reuse PR titles, seeing multiple `feat/bla-bla-bla-changed` defeats the prupose of using PRs and is just lazy. Try to make the PR titles relevant to the contents of the PR.**
